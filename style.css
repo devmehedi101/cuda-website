@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;   
+}
+body{
+    font-family: 'Titillium Web', sans-serif;
+}
+.bg-color {
+	background-color: #87509c;
+	padding: 43px 0 11% 0;
+}
+.navbar ul li a{
+    font-size: 16px;
+}
+.nav-link{
+    cursor: pointer;
+}
+.active, .navbar ul li:hover{
+    padding: 0px 9px;
+    margin: 0 5px;
+    background-color: #643a79;
+    border-radius: 3px;
+}
+.header-bottom{
+    text-align: center;
+    margin-top: 10%;
+}
+.header-bottom h1{
+    font-size: 43px;
+    font-weight: 700;
+    color: #FFF;
+}
+.header-bottom button {
+    padding: 20px 90px;
+    margin-top: 40px;
+    background-color: #eb7d4b;
+    border: transparent;
+    font-size: 18px;
+    color: #FFF;
+    box-shadow: #c86a40 0px 4.95px 2.6px;
+}
+.header-bottom button:hover{
+    background-color: #e77742;
+}
+/* header area end form heare */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
