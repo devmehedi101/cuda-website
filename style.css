@@ -9,18 +9,7 @@ body{
 	background-color: #87509c;
 	padding: 43px 0 11% 0;
 }
-.navbar ul li a{
-    font-size: 16px;
-}
-.nav-link{
-    cursor: pointer;
-}
-.active, .navbar ul li:hover{
-    padding: 0px 9px;
-    margin: 0 5px;
-    background-color: #643a79;
-    border-radius: 3px;
-}
+
 .header-bottom{
     text-align: center;
     margin-top: 10%;
